@@ -1,7 +1,7 @@
 var request = require('request'),
 	fs = require('fs');
 
-var endpoint = "http://127.0.0.1:8080/v1/";
+var endpoint = "http://api.glowfi.sh/v1/";
 var Glower = function(sid, token){
 	this.sid = sid;
 	this.token = token;
