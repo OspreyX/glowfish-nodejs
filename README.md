@@ -8,7 +8,7 @@ glowfi.sh in a Node Way
 
 **Setup**
 
-    var Glower = require('./glowfish');
+    var Glower = require('glowfish');
     var glower = new Glower('<GLOWFISH_SID>', '<GLOWFISH_AUTH_TOKEN>')
 
 **Useage**
