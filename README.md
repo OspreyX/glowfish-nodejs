@@ -1,5 +1,5 @@
 
-glowfi.sh the Pythonic Way
+glowfi.sh in a Node Way
 -----------
 
 **Installation**
