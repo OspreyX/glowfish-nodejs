@@ -1,0 +1,30 @@
+{
+  "name": "glowfish",
+  "version": "0.1.0",
+  "description": "The glowfi.sh nodejs API wrapper - Get learning faster",
+  "main": "glowfish.js",
+  "dependencies": {
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glowfishAPI/glowfish-nodejs.git"
+  },
+  "keywords": [
+    "bigml",
+    "machine",
+    "learning",
+    "ml",
+    "glowfish"
+  ],
+  "author": "glowfi.sh Team <team@glowfi.sh> (http://glowfi.sh/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glowfishAPI/glowfish-nodejs/issues"
+  },
+  "homepage": "https://github.com/glowfishAPI/glowfish-nodejs"
+}
