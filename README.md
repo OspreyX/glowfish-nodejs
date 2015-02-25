@@ -4,7 +4,7 @@ glowfi.sh in a Node Way
 
 **Installation**
 
-    pip install glowfi.sh
+    npm install glowfish
 
 **Setup**
 
