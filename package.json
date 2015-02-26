@@ -1,6 +1,6 @@
 {
   "name": "glowfish",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The glowfi.sh nodejs API wrapper - Get learning faster",
   "main": "glowfish.js",
   "dependencies": {
